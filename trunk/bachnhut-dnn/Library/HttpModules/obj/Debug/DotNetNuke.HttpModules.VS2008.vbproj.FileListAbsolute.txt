@@ -1,0 +1,7 @@
+D:\DNN\DotNetNuke_Community_05.06.01_Source\Library\HttpModules\bin\DotNetNuke.HttpModules.dll
+D:\DNN\DotNetNuke_Community_05.06.01_Source\Library\HttpModules\bin\DotNetNuke.HttpModules.pdb
+D:\DNN\DotNetNuke_Community_05.06.01_Source\Library\HttpModules\bin\DotNetNuke.HttpModules.xml
+D:\DNN\DotNetNuke_Community_05.06.01_Source\Library\HttpModules\obj\Debug\ResolveAssemblyReference.cache
+D:\DNN\DotNetNuke_Community_05.06.01_Source\Library\HttpModules\obj\Debug\DotNetNuke.HttpModules.dll
+D:\DNN\DotNetNuke_Community_05.06.01_Source\Library\HttpModules\obj\Debug\DotNetNuke.HttpModules.xml
+D:\DNN\DotNetNuke_Community_05.06.01_Source\Library\HttpModules\obj\Debug\DotNetNuke.HttpModules.pdb
