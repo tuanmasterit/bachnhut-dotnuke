@@ -1,0 +1,7 @@
+D:\DNN\DotNetNuke_Community_05.06.01_Source\Library\Providers\CachingProviders\FileBasedCachingProvider\bin\DotNetNuke.Caching.FileBasedCachingProvider.dll
+D:\DNN\DotNetNuke_Community_05.06.01_Source\Library\Providers\CachingProviders\FileBasedCachingProvider\bin\DotNetNuke.Caching.FileBasedCachingProvider.pdb
+D:\DNN\DotNetNuke_Community_05.06.01_Source\Library\Providers\CachingProviders\FileBasedCachingProvider\bin\DotNetNuke.Caching.FileBasedCachingProvider.xml
+D:\DNN\DotNetNuke_Community_05.06.01_Source\Library\Providers\CachingProviders\FileBasedCachingProvider\obj\Debug\ResolveAssemblyReference.cache
+D:\DNN\DotNetNuke_Community_05.06.01_Source\Library\Providers\CachingProviders\FileBasedCachingProvider\obj\Debug\DotNetNuke.Caching.FileBasedCachingProvider.dll
+D:\DNN\DotNetNuke_Community_05.06.01_Source\Library\Providers\CachingProviders\FileBasedCachingProvider\obj\Debug\DotNetNuke.Caching.FileBasedCachingProvider.xml
+D:\DNN\DotNetNuke_Community_05.06.01_Source\Library\Providers\CachingProviders\FileBasedCachingProvider\obj\Debug\DotNetNuke.Caching.FileBasedCachingProvider.pdb
