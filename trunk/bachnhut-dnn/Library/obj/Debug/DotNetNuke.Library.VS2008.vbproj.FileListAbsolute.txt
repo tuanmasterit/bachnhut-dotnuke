@@ -1,0 +1,8 @@
+D:\DNN\DotNetNuke_Community_05.06.01_Source\Library\bin\DotNetNuke.dll
+D:\DNN\DotNetNuke_Community_05.06.01_Source\Library\bin\DotNetNuke.pdb
+D:\DNN\DotNetNuke_Community_05.06.01_Source\Library\bin\DotNetNuke.xml
+D:\DNN\DotNetNuke_Community_05.06.01_Source\Library\bin\Telerik.Web.UI.dll
+D:\DNN\DotNetNuke_Community_05.06.01_Source\Library\obj\Debug\ResolveAssemblyReference.cache
+D:\DNN\DotNetNuke_Community_05.06.01_Source\Library\obj\Debug\DotNetNuke.dll
+D:\DNN\DotNetNuke_Community_05.06.01_Source\Library\obj\Debug\DotNetNuke.xml
+D:\DNN\DotNetNuke_Community_05.06.01_Source\Library\obj\Debug\DotNetNuke.pdb
